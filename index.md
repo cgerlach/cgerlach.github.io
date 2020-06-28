@@ -7,4 +7,5 @@ Severus Snape ist Teil der Harry Potter Reihe und tritt zunaechst als fieser Leh
 * Gefolgsmann von Lord Voldemort
 Wie Snape immer sagte
 > Fuenf Punkte Abzug fuer Gryffindor.
+<img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Ootp076.jpg"/>
 
