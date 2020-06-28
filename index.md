@@ -5,3 +5,6 @@ Severus Snape ist Teil der Harry Potter Reihe und tritt zunaechst als fieser Leh
 * Faecher: Verteidigung gegen die dunklen Kuenste
 * Duester
 * Gefolgsmann von Lord Voldemort
+Wie Snape immer sagte
+> Fuenf Punkte Abzug fuer Gryffindor.
+
